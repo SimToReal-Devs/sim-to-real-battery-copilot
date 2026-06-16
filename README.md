@@ -18,8 +18,6 @@ This project implements a **Closed-Loop Artificial General Engineer Framework**.
 
 ## 🗺️ System Architecture
 
-## 🗺️ System Architecture
-
 ```text
 [ Real-World Battery Telemetry ] ──► (Voltage, Current, Temp)
                │
